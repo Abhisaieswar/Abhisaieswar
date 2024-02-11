@@ -5,7 +5,7 @@ export const Bio = {
     "I'm a dedicated Programmer with a passion for continuous learning and a strong drive to overcome challenges. Eager to make a meaningful contribution, I am ready to embrace new opportunities and achieve excellence in my endeavors.",
   github: "https://github.com/Abhisaieswar",
   resume:
-    "https://drive.google.com/file/d/1TdrVwkA8FrJMVcV_N5wUc33hWS2SjZJb/view?usp=sharing",
+    "https://drive.google.com/file/d/12mUX_POs_mfqhTFTzO4XttMqqsg7c8YO/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abhi-sai-eswar-410a39133/",
   leetcode: "https://leetcode.com/abhisaieswar/",
 };
