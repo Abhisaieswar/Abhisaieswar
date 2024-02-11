@@ -5,7 +5,7 @@ export const Bio = {
     "I'm a dedicated Programmer with a passion for continuous learning and a strong drive to overcome challenges. Eager to make a meaningful contribution, I am ready to embrace new opportunities and achieve excellence in my endeavors.",
   github: "https://github.com/Abhisaieswar",
   resume:
-    "https://drive.google.com/file/d/1HboTymSUsuqTUyrBn2vaNhmjiR5rVu-E/view?usp=drive_link",
+    "https://drive.google.com/file/d/1TdrVwkA8FrJMVcV_N5wUc33hWS2SjZJb/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abhi-sai-eswar-410a39133/",
   leetcode: "https://leetcode.com/abhisaieswar/",
 };
@@ -124,335 +124,72 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "DevOps & Fullstack Engineering Intern",
-    company: "Flipr Inovations Pvt. Ltd.",
-    date: "Aug 2023 - July 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    img: "https://www.ngenux.com/static/media/ngenuxlogoDesk.e98497b0accbe64cd901cdaedb12051e.svg",
+    role: "Software Engineer",
+    company: "Ngenux solutions Pvt. Ltd.",
+    date: "Jan 2022 - Current",
+    desc: "Working on multiple fintech projects like matchmaking, expert portal, invoice and billing.",
     skills: [
-      "Docker",
-      "Terraform",
-      "AWS",
-      "EC2",
-      "Portainer",
-      "Nginx",
       "JavaScript",
       "TypeScript",
       "Node Js",
-      " Next Js",
-    ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  },
-  {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend Engineer Intern",
-    company: "Neurobit",
-    date: "June 2023 - Present",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
-  },
-  {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Fullstack Externship",
-    company: "Flipr",
-    date: "June 2023 - July 2023",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Docker",
+      "React Js",
       "AWS",
-      "MongoDB",
+      "Graphql"
     ],
-  },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    role: "Open Source Contributor ",
-    company: "GirlScript Summer of Code",
-    date: "May 2023 - Present",
-    desc: "Contributing to different open-source projects and learn from industry experts",
-    doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
-  },
-  {
-    id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-    role: "Android Developer",
-    company: "DSC KIIT",
-    date: "Nov2021 - Present",
-    desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
-    skills: [
-      "Leadership",
-      "Mobile Application Development",
-      "Kotlin",
-      "XML",
-      "Figma",
-    ],
-  },
-  {
-    id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-    role: "Android Developer Intern",
-    company: "Rudraksha Welffare Foundation",
-    date: "June 2021 - Oct 2021",
-    desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
-    skills: [
-      "Android",
-      "Java",
-      "Kotlin",
-      "XML",
-      "Node Js",
-      "Cloud Firestore",
-      "Firebase",
-      "Figma",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-  },
+  }
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    date: "Oct 2021 - Sep 2025",
-    grade: "8.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    img: "https://1.bp.blogspot.com/-gGqUe7QonQk/X4_UBTRxr0I/AAAAAAAAGZo/nAhlV2makSMImkUcmLnZuFKIiwNmT02vQCLcBGAsYHQ/s219/images.jpg",
+    school: "Rajiv Gandhi University of Knowledge and Technologies, RK VALLEY",
+    date: "Jun 2017 - Aug 2021",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    id: 0,
+    img: "https://1.bp.blogspot.com/-gGqUe7QonQk/X4_UBTRxr0I/AAAAAAAAGZo/nAhlV2makSMImkUcmLnZuFKIiwNmT02vQCLcBGAsYHQ/s219/images.jpg",
+    school: "Rajiv Gandhi University of Knowledge and Technologies, RK VALLEY",
+    date: "Jun 2015 - Aug 2017",
+    degree: "Pre-University Course PUC",
   },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
-  },
+ 
 ];
 
 export const projects = [
   {
-    id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
-  },
-  {
-    id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
-  {
     id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Present",
+    title: "Youtube",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Trackify is a web application designed to stream the youtube videos without getting the adds by embedding the youtube video in this application.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "data:image/png;base64,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",
     tags: [
       "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
       "Redux",
-      "NodeMailer",
+      "Tailwind",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/Abhisaieswar/Youtube",
+    webapp: "https://abhi-1e470.web.app/",
   },
   {
     id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
+    title: "2048",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "2048 is an application designed to play an interactive game by moving the tiles in 4 directions.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
+    tags: [
+      "React Js",
+      "Local Storage",
+      "Tailwind",
     ],
-  },
-  {
-    id: 3,
-    title: "Buckoid",
-    date: "Dec 2021 - Apr 2022",
-    description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-    image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  },
-  {
-    id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
-  },
-  {
-    id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
-  },
-  {
-    id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
-    description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
-  },
-  {
-    id: 6,
-    title: "Breaking Bad",
-    date: "Jun 2021",
-    description:
-      "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-    image:
-      "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-    tags: ["React Js", "API", "Axios", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
-    webapp: "https://breaking-bad-webapp.netlify.app",
-  },
-  {
-    id: 7,
-    title: "Quiz App",
-    date: "Dec 2020 - Jan 2021",
-    description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-    image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  },
-  {
-    id: 8,
-    title: "Face Recognition",
-    date: "Jan 2021",
-    description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-    image:
-      "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  },
+    github: "https://github.com/Abhisaieswar/2048",
+    webapp: "https://abhi-2048.web.app/",
+  }
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
